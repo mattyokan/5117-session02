@@ -73,8 +73,12 @@ footer {
     padding: 1%;
     margin-top: 1%;
     background: #0277bd;
-    color: white;
     font-weight: 800;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
 }
 
 #guestbook .container {
